@@ -8,7 +8,7 @@ public class Gugudan {
 				int hap = i*j;
 				System.out.print(i+"*"+j+ "=" + hap + " ");
 			}
-			System.out.println();
+			System.out.println("ธÞที");
 		}
 	}
 }
